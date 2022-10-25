@@ -11,8 +11,8 @@ Antes de fazer o deploy no git pelo cli, vamos entender alguns passos abaixo.
 O que é o GitHub CLI?
 
 Como o próprio site nos diz, seria para ajudar e facilitar a vida da pessoa desenvolvedora para enviar Pull Requests e Issues para o GitHub, abaixo está o link da documentação.
-
-documentação do GitHub
+ 
+<a href="https://cli.github.com/manual/">documentação do GitHub </a>
 
 O comando principal é o gh. Através dele podemos usar os demais comandos, tais como:
 	• gh pr [status, list, view, checkou, create]
@@ -41,6 +41,7 @@ Você pode testa-lo caso esteja tudo certo com o comando gh help.
 Site para pesquisa,
 
 GitHub CLI - Uma Nova Experiência no GitHub! - DEV Community 👩‍💻👨‍💻
+https://dev.to/azure/github-cli-uma-nova-experiencia-no-github-236n
 
 Criando um repositório via linha de comando e fazendo  deploy
 
