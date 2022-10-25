@@ -1,4 +1,4 @@
-##Projeto de desenvolvimento no ignaite Lab 3 da RocketSeat
+## Projeto de desenvolvimento no ignaite Lab 3 da RocketSeat
 
 Aprendendo a desenvolver um Storybook e gerando um deploy automaticamente no github
 
