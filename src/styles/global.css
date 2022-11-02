@@ -9,3 +9,9 @@ html {
 .sb-show-main.sb-main-padded{
     padding: 0rem;
 }
+
+@media(max-width:420px){
+    .sm-mobaile{
+        fontsize:28px;
+    }
+}
