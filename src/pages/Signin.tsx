@@ -8,7 +8,6 @@ import { TextInput } from '../components/TextInput';
 import { Logo } from '../Logo';
 
 
-
 export function Signin(){
 
     const [isUserSignedIn, setIsUserSignedIn] = useState(false);
@@ -20,7 +19,7 @@ export function Signin(){
     }
 
     return(
-        <div className="h-screen bg-gray-900 flex flex-col items-center justify-center text-gray-100">
+        <div className="p-2 w-full h-screen  bg-gray-900 flex flex-col items-center justify-center text-gray-100">
             <header className="flex flex-col items-center">
             <Logo />
     

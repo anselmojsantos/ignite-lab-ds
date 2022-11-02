@@ -32,6 +32,7 @@ module.exports = {
         300: '#9BE1FB'
       },
     },
+    
     extend: {
       fontFamily: {
         sans: 'Inter, sans-serif'
