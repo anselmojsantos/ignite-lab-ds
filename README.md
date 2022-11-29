@@ -2,6 +2,8 @@
 
 Aprendendo a desenvolver um Storybook e gerando um deploy automaticamente no github
 
+<img alt="License" src="https://user-images.githubusercontent.com/49048624/204629530-a994102e-9357-4c18-a288-1e4aa399cd56.PNG">
+
 No projeto necessita de ter os arquivos de geração do deploy:
 Exemplo C:\TI\RocketSeat\Ignit Lab\lab-ds\.github\workflows\deploy-docs.yml  conforme neste git
 Configurar o main.cjs do na pasta storybook conforme neste git.
